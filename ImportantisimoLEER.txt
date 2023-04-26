@@ -1,0 +1,1 @@
+Al crear nuevo jugador por alguna razón se debe clickear la comboBox es decir 5x5 o 10x10, el archivo que se corre es LightOuts
